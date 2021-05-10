@@ -114,7 +114,7 @@ namespace VBP
 
                 if (attempts > 3)
                 {
-                    Console.WriteLine("Unauthorized user. Initiate self-destruct sequence in 5...");
+                    Console.WriteLine("Unauthorized user not fit for vacation. Initiate self-destruct sequence in 5...");
                     Thread.Sleep(1000);
                     Console.WriteLine("4...");
                     Thread.Sleep(1000);
